@@ -19,10 +19,10 @@ Welcome to my portfolio! Here are a few of my notable projects:
 - **[How Driving Scenarios Affect In-Vehicle Coupon Choices](https://github.com/yourusername/in-vehicle-coupon-analysis)**  
   *Analyzed over 100,000 data points using random forests and gradient boosting to improve coupon redemption rates by 7%.*  
 
-- **[Generalized Animal Recognition CNN with Background Removal](https://github.com/yourusername/animal-recognition-cnn)**  
+- **[Generalized Animal Recognition CNN with Background Removal](https://github.com/BillChen24/DSC180B-Project-B319-2)**  
   *Enhanced model performance by 25% with noise reduction techniques for robust accuracy in diverse environments.*  
 
-- **[Simulation of Automatic Vehicle Driving Trajectories](https://github.com/yourusername/vehicle-trajectory-prediction)**  
+- **[Simulation of Automatic Vehicle Driving Trajectories](https://github.com/joydeeepd/CSE-151B-Competition)**  
   *Reduced model loss from over 300 to 25 by optimizing predictive algorithms, improving safety and efficiency.*  
  
 
