@@ -16,7 +16,7 @@ I am a motivated and analytical professional with experience in model developmen
 ### 📚 Projects  
 Welcome to my portfolio! Here are a few of my notable projects:  
 
-- **[How Driving Scenarios Affect In-Vehicle Coupon Choices](https://github.com/yourusername/in-vehicle-coupon-analysis)**  
+- **[How Driving Scenarios Affect In-Vehicle Coupon Choices](https://github.com/Guanlin-99/in_vehicle_coupon)**  
   *Analyzed over 100,000 data points using random forests and gradient boosting to improve coupon redemption rates by 7%.*  
 
 - **[Generalized Animal Recognition CNN with Background Removal](https://github.com/BillChen24/DSC180B-Project-B319-2)**  
