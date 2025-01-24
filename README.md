@@ -14,7 +14,9 @@ I am a motivated and analytical professional with experience in model developmen
 ---
 
 ### 📚 Projects  
-Welcome to my portfolio! Here are a few of my notable projects:  
+Welcome to my portfolio! Here are a few of my notable projects:
+- **[1 Thing Org Anti Asian Hate】(https://github.com/1thing-org)**   
+  *Managed cross-functional teams to deliver data-driven features for two applications, optimizing workflows and leveraging tools like SQL, Tableau, and Jira to enhance project efficiency and outcomes.*  
 
 - **[How Driving Scenarios Affect In-Vehicle Coupon Choices](https://github.com/Guanlin-99/in_vehicle_coupon)**  
   *Analyzed over 100,000 data points using random forests and gradient boosting to improve coupon redemption rates by 7%.*  
